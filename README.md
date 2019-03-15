@@ -1,6 +1,6 @@
 ### Welcome to my personal webpage
 I am visiting [Goethe University Frankfurt](http://www.uni-frankfurt.de) this year
-
+My [CV](ilianareggio/ilianareggio.github.io/CV.pdf)
 
 ### **_Research_**
 
@@ -12,5 +12,5 @@ Social Insurance
 
 #### Past courses at UC3M  
 Macroeconomics  
-Applied Economics
+Applied Economics  
 Quantitative Microeconomics
