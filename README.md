@@ -1,6 +1,7 @@
 ### Welcome to my personal webpage
 I am visiting [Goethe University Frankfurt](http://www.uni-frankfurt.de) this year
-My [CV](ilianareggio/ilianareggio.github.io/CV.pdf)
+
+My [CV](ilianareggio/ilianareggio.github.io/IlianaReggio_CV_Feb2019.pdf)
 
 ### **_Research_**
 
