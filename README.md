@@ -1,9 +1,5 @@
 ![](iliana_pic.jpg){:height="200px" width="200px"}
 
-<div align="center">
-  ![description](iliana_pic.jpg)
-</div>
-
 I am visiting [Goethe University Frankfurt](http://www.uni-frankfurt.de) this year
 
 ### **_Contact Information_**
