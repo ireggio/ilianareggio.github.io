@@ -1,4 +1,4 @@
-![](iliana_uc3m.jpg){:height="36px" width="36px"}
+![](iliana_uc3m.jpg){:height="200px" width="200px"}
 
 
 I am visiting [Goethe University Frankfurt](http://www.uni-frankfurt.de) this year
