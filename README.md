@@ -1,6 +1,7 @@
 ## Welcome to my personal webpage
 
 
-### Research
+### **_Research_**
+
 
 ### Teaching
