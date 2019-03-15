@@ -1,8 +1,8 @@
 ![](iliana_uc3m.jpg){:height="200px" width="200px"}
 
-<p align="center">
+<div align="center">
   <img width="200" height="200" src=iliana_uc3m.jpg>
-</p>
+</div>
 
 I am visiting [Goethe University Frankfurt](http://www.uni-frankfurt.de) this year
 
