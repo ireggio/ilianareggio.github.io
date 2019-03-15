@@ -14,9 +14,8 @@ Theodor-W.-Adorno-Platz 3
 Tel.: 06979833851
 
 
-### **_Research_**
+### [**_Research_**](readme.md)
 My [CV](IlianaReggio_CV_Feb2019.pdf)
-
 
 ### **_Teaching_**
 #### Current courses at GU  
